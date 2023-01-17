@@ -1,0 +1,15 @@
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\Exclusion.csproj.AssemblyReference.cache
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\Exclusion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\Exclusion.AssemblyInfoInputs.cache
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\Exclusion.AssemblyInfo.cs
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\Exclusion.csproj.CoreCompileInputs.cache
+C:\Users\iluxa\source\repos\Exclusion\bin\Debug\net6.0\Exclusion.exe
+C:\Users\iluxa\source\repos\Exclusion\bin\Debug\net6.0\Exclusion.deps.json
+C:\Users\iluxa\source\repos\Exclusion\bin\Debug\net6.0\Exclusion.runtimeconfig.json
+C:\Users\iluxa\source\repos\Exclusion\bin\Debug\net6.0\Exclusion.dll
+C:\Users\iluxa\source\repos\Exclusion\bin\Debug\net6.0\Exclusion.pdb
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\Exclusion.dll
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\refint\Exclusion.dll
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\Exclusion.pdb
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\Exclusion.genruntimeconfig.cache
+C:\Users\iluxa\source\repos\Exclusion\obj\Debug\net6.0\ref\Exclusion.dll
